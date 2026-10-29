@@ -1,6 +1,6 @@
 # Top 10 horror/ disturbing books 
 
-This website is totally on my opinions. Check out this website to check out my fav books!!!
+This website is made totally on my opinions. Check out this website to check out my fav horror/disturbing books!!!
 
 ## How to run
 
@@ -12,10 +12,16 @@ This website is totally on my opinions. Check out this website to check out my f
 
 ## Technologies and Tool
 
-I have used Vanilla HTML and CSS as lanuage in this wensite
+I have used Vanilla HTML and CSS as language in this website In VS Code
 
 ## Inspiration
 
-I got inspired of making thgis project from boba bash greater noida!
+I got inspired of making this project from boba bash greater noida!
 
-And actually Won the 4th prize!
+## Image
+
+<img width="1346" height="642" alt="image" src="https://github.com/user-attachments/assets/9e7f8f41-cae7-4c26-9656-0cb32600d17c" />
+
+## Brag
+
+Using this Project I won 4th place in Boba Bash Greater Noida!!
